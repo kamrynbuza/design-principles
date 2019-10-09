@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Rock+Salt&display=swap'); 
+@import url('https://fonts.googleapis.com/css?family=Oxygen&display=swap'); 
 body {
-  font-family: arial; text-indent: 2em;
+  font-family: 'Oxygen', sans-serif; text-indent: 2em;
 }
 
 .container {
@@ -23,8 +25,9 @@ header {
   padding: 30px;
   text-align: center;
   font-size: 1.4em;
-  background-color: #8B1F41;
+  background-color: #6C7580;
   color: white;
+   font-family: 'Rock Salt', cursive;
 }
 
 main {
@@ -33,8 +36,9 @@ main {
 }
 
 nav {
-  background-color:  #E87722;
+  background-color:  #D0E1F5;
   padding: 20px;
+    font-family: 'Oxygen', sans-serif; 
 
 }
 
@@ -45,12 +49,14 @@ nav li {
 
 aside {
   padding: 20px;
-  background-color: #75787B;
+  background-color: #A3B0BF;
   color: white;
+    font-family: 'Oxygen', sans-serif; 
 }
 
 figcaption {
     font-style: italic;
+    font-family: 'Oxygen', sans-serif; 
 }
 
 footer {
@@ -58,27 +64,30 @@ footer {
   padding: 30px;
   text-align: center;
   font-size: 1.4em;
-  background-color: #8B1F41;
+  background-color: #6C7580;
   color: white;
+    font-family: 'Oxygen', sans-serif; 
 }
 
 h1 {
   margin-bottom: 1em;
   font-size: 1.4em;
   font-weight: bolder;
+    font-family: 'Rock Salt', cursive;
 }
 
 h2 {
   margin-bottom: 1em;
   font-size: 1.2em;
   font-weight: bold;
+   font-family: 'Rock Salt', cursive;
 }
 
 h3 {
   margin-bottom: 1em;
   font-size: 1em;
   font-style: italic;
-}
+    font-family: 'Rock Salt', cursive; } 
 
 p {
   margin-bottom: 1em;
